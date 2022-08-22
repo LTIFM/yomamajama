@@ -1,2 +1,2 @@
 # yomamajama
-just me and yo mama
+my first repository where I will put my projects
